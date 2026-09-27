@@ -31,7 +31,7 @@
         <li>💼 <b>Role:</b> Founder @ <b>N-CODE STUDIO</b></li>
         <li>🎓 <b>Education:</b> BEng in Computer Software Eng. (2025-2029)</li>
         <li>💡 <b>Stack:</b> MERN, Laravel 11, UI/UX, SEO & PWA</li>
-        <li>📫 <b>Reach out:</b> <a href="mailto:deshannethmina2@gmail.com">deshannethmina2@gmail.com</a></li>
+        <li>📫 <b>Reach out:</b> <a href="mailto:deshan@ncodest.com">deshan@ncodest.com</a></li>
       </ul>
     </td>
     <td width="40%" align="center">
