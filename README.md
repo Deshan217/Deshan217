@@ -55,15 +55,15 @@
 <h2 align="center">📊 Profile Summary & Commits</h2>
 <table align="center" style="border: none; background: transparent;">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Deshan217/Deshan217/main/profile-summary-cards-output/transparent/0-profile-details.svg" alt="Profile Details" /></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Deshan217/Deshan217/main/profile-summary-cards-output/transparent/1-repo-language.svg" alt="Repo Language" /></td>
+    <td align="center"><img src="./profile-summary-cards-output/transparent/0-profile-details.svg" alt="Profile Details" /></td>
+    <td align="center"><img src="./profile-summary-cards-output/transparent/1-repo-language.svg" alt="Repo Language" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Deshan217/Deshan217/main/profile-summary-cards-output/transparent/2-commit-language.svg" alt="Commit Language" /></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Deshan217/Deshan217/main/profile-summary-cards-output/transparent/3-stats.svg" alt="Stats" /></td>
+    <td align="center"><img src="./profile-summary-cards-output/transparent/2-commit-language.svg" alt="Commit Language" /></td>
+    <td align="center"><img src="./profile-summary-cards-output/transparent/3-stats.svg" alt="Stats" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Deshan217/Deshan217/main/profile-summary-cards-output/transparent/4-productive-time.svg" alt="Productive Time" /></td>
+    <td colspan="2" align="center"><img src="./profile-summary-cards-output/transparent/4-productive-time.svg" alt="Productive Time" /></td>
   </tr>
 </table>
 
